@@ -24,7 +24,7 @@
         tools:layout="@layout/fragment_shared_pref" />
     <fragment
         android:id="@+id/cleanArchitectureFragment"
-        android:name="com.example.tutors.presentation.screens.CleanArchitectureFragment"
+        android:name="com.example.tutors.presentation.screens.CleanArchitecture.CleanArchitectureFragment"
         android:label="fragment_clean_architecture"
         tools:layout="@layout/fragment_clean_architecture" />
 </navigation>
